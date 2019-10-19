@@ -1,2 +1,0 @@
-# wally
-Created with CodeSandbox
